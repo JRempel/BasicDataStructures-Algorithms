@@ -1,9 +1,9 @@
 # BasicDataStructures-Algorithms
 A repository of my implimentation (with generics) of some of the more common Data Structures &amp; Algorithms.
-*Italicized items are in progress, ***bold items are complete**
+*Italicized items are in progress, * **bold items are complete**
 
 ##Data Structures
-*- Doubly Linked List*
+- *Doubly Linked List*
 - Binary Tree
 - Heap
 - AVL Tree
