@@ -10,8 +10,8 @@ A repository of my implimentation (with generics) of some of the more common Dat
 - Skip List
 
 ##Sorting Algorithms
-- Insertion Sort
-- Selection Sort
+- __Insertion Sort__
+- __Selection Sort__
 - Merge Sort
 - Quick Sort
 - Bucket Sort(?)
