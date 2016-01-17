@@ -6,7 +6,9 @@ public class Node <T> {
 	private Node<T> prev;
 	
 	public Node() {
-		
+		data = null;
+		next = null;
+		prev = null;
 	}
 	
 	public Node(T data) {
@@ -35,8 +37,11 @@ public class Node <T> {
 		this.next = next;
 	}
 	
-	public void setPrev(Node<T> end) {
-		this.prev = end;
+	public void setPrev(Node<T> prev) {
+		this.prev = prev;
 	}
 	
+	public String toString() {
+		return data.toString();
+	}
 }
